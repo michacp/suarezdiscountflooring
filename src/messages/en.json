@@ -1,0 +1,231 @@
+{
+"topbar": {
+  "home": "Home",
+  "services": "Services",
+  "gallery": "Gallery",
+  "cta": "Free Quote"
+},
+  "hero": {
+    "eyebrow": "Licensed & Insured Flooring Experts",
+    "title": "Top Quality Flooring Installation at Discount Prices",
+    "subtitle": "Transform your home with expert hardwood, LVP, and carpet installation. Fast, clean, and built to last.",
+    "cta": "Get Your Free Quote",
+    "servicesCta": "Our Services",
+    "scrollHint": "Scroll",
+    "materials": {
+      "hardwood": "Hardwood",
+      "tile": "Tile",
+      "vinyl": "Vinyl / LVP",
+      "carpet": "Carpet"
+    }
+  },
+"quoteModal": {
+  "title": "Get a Free Estimate",
+  "subtitle": "Fill out the form and our team will get back to you shortly."
+},
+  "services": {
+    "sectionTitle": "Our Services",
+    "sectionSubtitle": "From installation to restoration, we handle every step of your flooring project.",
+    "viewAllCta": "View All Services",
+    "pageTitle": "Our Flooring Services",
+    "pageSubtitle": "Explore our full range of installation, repair, maintenance, and consulting services.",
+    "categories": {
+      "installation": {
+        "title": "Flooring Installation Services",
+        "items": {
+          "hardwoodFlooring": {
+            "title": "Hardwood Flooring",
+            "description": "Installation of solid hardwood, laminate, and parquet flooring."
+          },
+          "tileFlooring": {
+            "title": "Tile Flooring",
+            "description": "Installation of ceramic, porcelain, and natural stone tile flooring."
+          },
+          "vinylLinoleum": {
+            "title": "Vinyl & Linoleum Flooring",
+            "description": "Installation of vinyl, linoleum, and other synthetic flooring materials."
+          },
+          "floatingFloors": {
+            "title": "Floating Floors",
+            "description": "Installation of floating floors and click-lock systems."
+          },
+          "carpetInstallation": {
+            "title": "Carpet Installation",
+            "description": "Carpet installation for residential and commercial interiors."
+          },
+          "industrialFlooring": {
+            "title": "Industrial Flooring",
+            "description": "Installation of heavy-duty flooring for industrial or commercial environments."
+          }
+        }
+      },
+      "repairRestoration": {
+        "title": "Floor Repair & Restoration",
+        "items": {
+          "hardwoodRepair": {
+            "title": "Hardwood Floor Repair",
+            "description": "Repair of damaged boards, sanding, and refinishing."
+          },
+          "tileRepair": {
+            "title": "Tile Floor Repair",
+            "description": "Replacement of broken or damaged tiles, regrouting, and leveling."
+          },
+          "vinylLinoleumRepair": {
+            "title": "Vinyl & Linoleum Repair",
+            "description": "Repair of damaged surfaces, bubbling, or peeling."
+          },
+          "antiqueFloorRestoration": {
+            "title": "Antique Floor Restoration",
+            "description": "Complete restoration of aged or worn hardwood floors."
+          },
+          "carpetRepair": {
+            "title": "Carpet Repair",
+            "description": "Repair of worn or damaged areas, stretching, and reconditioning."
+          }
+        }
+      },
+      "maintenance": {
+        "title": "Floor Maintenance",
+        "items": {
+          "woodCleaningPolishing": {
+            "title": "Hardwood Cleaning & Polishing",
+            "description": "Deep cleaning and polishing services to maintain shine and durability."
+          },
+          "tileMaintenance": {
+            "title": "Tile Floor Maintenance",
+            "description": "Grout and surface cleaning, sealant application."
+          },
+          "vinylLinoleumMaintenance": {
+            "title": "Vinyl & Linoleum Maintenance",
+            "description": "Cleaning and protection to extend service life."
+          },
+          "carpetCleaning": {
+            "title": "Professional Carpet Cleaning",
+            "description": "Deep cleaning services and stain treatment."
+          }
+        }
+      },
+      "consulting": {
+        "title": "Consulting Services",
+        "items": {
+          "materialSelection": {
+            "title": "Material Selection Advice",
+            "description": "Help choosing the most suitable flooring type based on needs and budget."
+          },
+          "floorDesign": {
+            "title": "Floor Design Consulting",
+            "description": "Advice on patterns, colors, and combinations that enhance your space."
+          },
+          "floorAssessment": {
+            "title": "Floor Condition Assessment",
+            "description": "Inspection and assessment of current floor condition to determine the best plan of action."
+          }
+        }
+      },
+      "customServices": {
+        "title": "Custom Services",
+        "items": {
+          "customInstallations": {
+            "title": "Custom Installations",
+            "description": "Tailored solutions for special projects or specific needs."
+          },
+          "customPatterns": {
+            "title": "Custom Pattern Design & Creation",
+            "description": "Installation of flooring with unique designs or custom patterns."
+          },
+          "commercialResidential": {
+            "title": "Commercial & Residential Projects",
+            "description": "Specialized services for different types of properties."
+          }
+        }
+      },
+      "warrantyPostSale": {
+        "title": "Warranty & After-Sales Service",
+        "items": {
+          "qualityWarranty": {
+            "title": "Quality Warranty",
+            "description": "Information about the warranties offered for each type of service."
+          },
+          "postInstallationMaintenance": {
+            "title": "Post-Installation Maintenance Service",
+            "description": "Periodic maintenance services to extend the life of your floor."
+          },
+          "customerService": {
+            "title": "Customer Service",
+            "description": "Information on how to contact customer service for questions or complaints."
+          }
+        }
+      }
+    }
+  },
+  "work": {
+  "eyebrow": "See Our Results",
+  "sectionTitle": "Our Work",
+  "sectionSubtitle": "Real photos and videos from projects we've completed for homeowners like you.",
+  "photosLabel": "Photos",
+  "reelsLabel": "Reels",
+  "viewAllCta": "View Full Gallery"
+},
+"latestPosts": {
+  "eyebrow": "Stay Connected",
+  "sectionTitle": "Latest Posts",
+  "sectionSubtitle": "Follow our recent updates and projects straight from Facebook.",
+  "followCta": "Follow Us on Facebook"
+},
+"gallery": {
+  "pageTitle": "Our Work",
+  "pageSubtitle": "Browse our full portfolio of completed flooring projects.",
+  "photosTab": "Photos",
+  "reelsTab": "Reels"
+},
+"footer": {
+  "tagline": "Quality flooring installation and repair at prices that make sense. Family-owned, locally trusted.",
+  "quickLinksTitle": "Quick Links",
+  "home": "Home",
+  "services": "Services",
+  "gallery": "Gallery",
+  "getQuote": "Get a Free Quote",
+  "hoursTitle": "Business Hours",
+  "weekdays": "Mon – Fri",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "closed": "Closed",
+  "contactTitle": "Contact",
+  "rightsReserved": "All rights reserved.",
+  "madeWith": "Flooring done right."
+},
+"quoteForm": {
+  "fullName": "Full Name",
+  "fullNamePlaceholder": "John Doe",
+  "phone": "Phone Number",
+  "phonePlaceholder": "(555) 000-0000",
+  "email": "Email Address",
+  "emailPlaceholder": "john@example.com",
+  "service": "Service Required",
+  "serviceOptions": {
+    "hardwood": "Hardwood Flooring",
+    "lvp": "LVP / Vinyl Plank",
+    "carpet": "Carpet Installation",
+    "repair": "Flooring Repair"
+  },
+  "message": "Project Details / Message",
+  "messagePlaceholder": "Tell us about your project area, timing, or questions...",
+  "submit": "Submit Quote Request"
+},
+"quoteSection": {
+  "eyebrow": "Ready to Upgrade Your Floors?",
+  "title": "Request Your Free In-Home Estimate",
+  "subtitle": "Get in touch with Suarez Discount Flooring today and let us bring high quality to your home at unbeatable prices.",
+  "badges": {
+    "licensed": "Licensed & Insured",
+    "fastResponse": "24-Hour Response",
+    "freeConsult": "Free Consultation"
+  },
+  "preferCall": "Prefer to talk now? Call us at"
+},
+"whatsapp": {
+  "ariaLabel": "Chat with us on WhatsApp",
+  "tooltip": "Chat with us!",
+  "prefilledMessage": "Hi! I'm interested in getting a flooring quote."
+}
+}

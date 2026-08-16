@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  /* Fondo Principal del Sitio (Reemplaza al blanco plano) */
+  --color-surface-bg: #f4f6f9;        /* Gris suave con tono azulado frío */
+  --color-surface-card: #ffffff;      /* Blanco puro reservado SOLO para tarjetas */
+
+  /* Colores del Logo & Marca (Inspirados en la paleta) */
+  --color-brand-navy: #0b192c;        /* Azul Marino Profundo */
+  --color-brand-red: #d92323;         /* Rojo Ecuador vivo para CTAs */
+  --color-brand-red-hover: #b81d1d;
+  --color-brand-yellow: #fcd34d;      /* Amarillo cálido para detalles/badges */
+  --color-brand-yellow-dark: #f59e0b;
+    /* Radios para el look "pill" de los botones */
+  --radius-btn: 9999px;
+
+  /* Tono para overlays sobre imágenes (hero) */
+  --color-overlay: rgb(11 25 44 / 0.72); /* brand-navy con opacidad */
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounce-soft {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(6px);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.7s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up {
+    animation: none;
+    opacity: 1;
+  }
+}
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }

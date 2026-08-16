@@ -1,0 +1,231 @@
+{
+"topbar": {
+  "home": "Inicio",
+  "services": "Servicios",
+  "gallery": "Galería",
+  "cta": "Cotización Gratis"
+},
+"hero": {
+  "eyebrow": "Expertos en Pisos con Licencia y Seguro",
+  "title": "Instalación de Pisos de Alta Calidad a Precios de Descuento",
+  "subtitle": "Transforma tu hogar con instalación experta de madera, LVP y alfombra. Rápido, limpio y hecho para durar.",
+  "cta": "Obtén tu Cotización Gratis",
+  "servicesCta": "Nuestros Servicios",
+  "scrollHint": "Desliza",
+  "materials": {
+    "hardwood": "Madera",
+    "tile": "Baldosa",
+    "vinyl": "Vinilo / LVP",
+    "carpet": "Alfombra"
+  }
+},
+"quoteModal": {
+  "title": "Obtén una Cotización Gratis",
+  "subtitle": "Completa el formulario y nuestro equipo se pondrá en contacto contigo pronto."
+},
+"quoteForm": {
+  "fullName": "Nombre Completo",
+  "fullNamePlaceholder": "Juan Pérez",
+  "phone": "Número de Teléfono",
+  "phonePlaceholder": "(555) 000-0000",
+  "email": "Correo Electrónico",
+  "emailPlaceholder": "juan@ejemplo.com",
+  "service": "Servicio Requerido",
+  "serviceOptions": {
+    "hardwood": "Piso de Madera",
+    "lvp": "LVP / Vinilo",
+    "carpet": "Instalación de Alfombra",
+    "repair": "Reparación de Pisos"
+  },
+  "message": "Detalles del Proyecto / Mensaje",
+  "messagePlaceholder": "Cuéntanos sobre tu proyecto: área, tiempo estimado o preguntas...",
+  "submit": "Enviar Solicitud de Cotización"
+},
+"quoteSection": {
+  "eyebrow": "¿Listo para Renovar tus Pisos?",
+  "title": "Solicita tu Estimado Gratis a Domicilio",
+  "subtitle": "Contáctanos hoy y deja que Suarez Discount Flooring le dé a tu hogar calidad de primera a precios inigualables.",
+  "badges": {
+    "licensed": "Con Licencia y Seguro",
+    "fastResponse": "Respuesta en 24 Horas",
+    "freeConsult": "Consulta Gratis"
+  },
+  "preferCall": "¿Prefieres hablar ahora? Llámanos al"
+},
+"services": {
+  "sectionTitle": "Nuestros Servicios",
+  "sectionSubtitle": "Desde la instalación hasta la restauración, cubrimos cada etapa de tu proyecto de pisos.",
+  "viewAllCta": "Ver Todos los Servicios",
+  "pageTitle": "Nuestros Servicios de Pisos",
+  "pageSubtitle": "Explora nuestra gama completa de servicios de instalación, reparación, mantenimiento y asesoramiento.",
+  "categories": {
+    "installation": {
+      "title": "Servicios de Instalación de Pisos",
+      "items": {
+        "hardwoodFlooring": {
+          "title": "Pisos de Madera",
+          "description": "Instalación de pisos de madera maciza, laminados y parquet."
+        },
+        "tileFlooring": {
+          "title": "Pisos de Baldosa",
+          "description": "Instalación de pisos cerámicos, porcelánicos y de piedra natural."
+        },
+        "vinylLinoleum": {
+          "title": "Pisos de Vinilo y Linóleo",
+          "description": "Colocación de pisos vinílicos, linóleo y otros materiales sintéticos."
+        },
+        "floatingFloors": {
+          "title": "Pisos Flotantes",
+          "description": "Instalación de pisos flotantes y sistemas de clic."
+        },
+        "carpetInstallation": {
+          "title": "Instalación de Alfombras",
+          "description": "Instalación de alfombras para interiores residenciales y comerciales."
+        },
+        "industrialFlooring": {
+          "title": "Pisos Industriales",
+          "description": "Colocación de pisos resistentes para entornos industriales o comerciales."
+        }
+      }
+    },
+    "repairRestoration": {
+      "title": "Reparación y Restauración de Pisos",
+      "items": {
+        "hardwoodRepair": {
+          "title": "Reparación de Pisos de Madera",
+          "description": "Reparación de tablas dañadas, lijado y barnizado."
+        },
+        "tileRepair": {
+          "title": "Reparación de Pisos de Baldosa",
+          "description": "Sustitución de baldosas rotas o dañadas, rejuntado y nivelación."
+        },
+        "vinylLinoleumRepair": {
+          "title": "Reparación de Pisos de Vinilo y Linóleo",
+          "description": "Reparación de superficies dañadas, burbujas o despegue."
+        },
+        "antiqueFloorRestoration": {
+          "title": "Restauración de Pisos Antiguos",
+          "description": "Restauración completa de pisos de madera envejecidos o desgastados."
+        },
+        "carpetRepair": {
+          "title": "Reparación de Alfombras",
+          "description": "Reparación de áreas desgastadas o dañadas, estirado y reacondicionamiento."
+        }
+      }
+    },
+    "maintenance": {
+      "title": "Mantenimiento de Pisos",
+      "items": {
+        "woodCleaningPolishing": {
+          "title": "Limpieza y Pulido de Pisos de Madera",
+          "description": "Servicios de limpieza profunda y pulido para mantener el brillo y la durabilidad."
+        },
+        "tileMaintenance": {
+          "title": "Mantenimiento de Pisos de Baldosa",
+          "description": "Limpieza de juntas y superficies, aplicación de selladores."
+        },
+        "vinylLinoleumMaintenance": {
+          "title": "Mantenimiento de Pisos de Vinilo y Linóleo",
+          "description": "Limpieza y protección para alargar la vida útil."
+        },
+        "carpetCleaning": {
+          "title": "Limpieza Profesional de Alfombras",
+          "description": "Servicios de limpieza profunda y tratamiento de manchas."
+        }
+      }
+    },
+    "consulting": {
+      "title": "Servicios de Asesoramiento",
+      "items": {
+        "materialSelection": {
+          "title": "Asesoramiento en Selección de Materiales",
+          "description": "Ayuda en la selección del tipo de piso más adecuado según las necesidades y el presupuesto."
+        },
+        "floorDesign": {
+          "title": "Consultoría en Diseño de Pisos",
+          "description": "Asesoramiento sobre patrones, colores y combinaciones que mejoren la estética del espacio."
+        },
+        "floorAssessment": {
+          "title": "Evaluación del Estado del Piso",
+          "description": "Inspección y evaluación del estado actual de los pisos para determinar el mejor plan de acción."
+        }
+      }
+    },
+    "customServices": {
+      "title": "Servicios Personalizados",
+      "items": {
+        "customInstallations": {
+          "title": "Instalaciones a Medida",
+          "description": "Soluciones personalizadas para proyectos especiales o necesidades específicas."
+        },
+        "customPatterns": {
+          "title": "Diseño y Creación de Patrones Personalizados",
+          "description": "Instalación de pisos con diseños únicos o patrones personalizados."
+        },
+        "commercialResidential": {
+          "title": "Proyectos Comerciales y Residenciales",
+          "description": "Servicios especializados para diferentes tipos de propiedades."
+        }
+      }
+    },
+    "warrantyPostSale": {
+      "title": "Garantías y Servicio Post-Venta",
+      "items": {
+        "qualityWarranty": {
+          "title": "Garantía de Calidad",
+          "description": "Información sobre las garantías que ofrece la empresa para cada tipo de servicio."
+        },
+        "postInstallationMaintenance": {
+          "title": "Servicio de Mantenimiento Post-Instalación",
+          "description": "Ofrecimiento de servicios de mantenimiento periódicos para prolongar la vida útil del piso."
+        },
+        "customerService": {
+          "title": "Atención al Cliente",
+          "description": "Información sobre cómo contactar al servicio de atención al cliente para consultas o reclamos."
+        }
+      }
+    }
+  }
+},
+"work": {
+  "eyebrow": "Mira Nuestros Resultados",
+  "sectionTitle": "Nuestro Trabajo",
+  "sectionSubtitle": "Fotos y videos reales de proyectos que hemos completado para clientes como tú.",
+  "photosLabel": "Fotos",
+  "reelsLabel": "Reels",
+  "viewAllCta": "Ver Galería Completa"
+},
+"latestPosts": {
+  "eyebrow": "Mantente Conectado",
+  "sectionTitle": "Últimas Publicaciones",
+  "sectionSubtitle": "Sigue nuestras actualizaciones y proyectos recientes directo desde Facebook.",
+  "followCta": "Síguenos en Facebook"
+},
+"gallery": {
+  "pageTitle": "Nuestro Trabajo",
+  "pageSubtitle": "Explora nuestro portafolio completo de proyectos de pisos terminados.",
+  "photosTab": "Fotos",
+  "reelsTab": "Reels"
+},
+"footer": {
+  "tagline": "Instalación y reparación de pisos de calidad a precios que tienen sentido. Familiar y de confianza local.",
+  "quickLinksTitle": "Enlaces Rápidos",
+  "home": "Inicio",
+  "services": "Servicios",
+  "gallery": "Galería",
+  "getQuote": "Obtén una Cotización Gratis",
+  "hoursTitle": "Horario de Atención",
+  "weekdays": "Lun – Vie",
+  "saturday": "Sábado",
+  "sunday": "Domingo",
+  "closed": "Cerrado",
+  "contactTitle": "Contacto",
+  "rightsReserved": "Todos los derechos reservados.",
+  "madeWith": "Pisos hechos bien."
+},
+"whatsapp": {
+  "ariaLabel": "Chatea con nosotros por WhatsApp",
+  "tooltip": "¡Escríbenos!",
+  "prefilledMessage": "¡Hola! Estoy interesado en una cotización de pisos."
+}
+}
