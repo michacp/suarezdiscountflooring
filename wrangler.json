@@ -2,12 +2,17 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "suarezdiscountflooring",
   "compatibility_date": "2026-08-17",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "main": ".vercel/output/static/_worker.js/index.js",
   "assets": {
     "directory": ".vercel/output/static",
     "binding": "ASSETS",
     "html_handling": "drop-trailing-slash"
   },
+  "workers_dev": true,
+  "preview_urls": true,
   "observability": {
     "enabled": true
   }

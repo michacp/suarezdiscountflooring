@@ -2,13 +2,14 @@
   "name": "suarez-discount-flooring",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
-    "pages:build": "npx @cloudflare/next-on-pages"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "eslint",
+  "pages:build": "npx @cloudflare/next-on-pages",
+  "deploy": "npx @cloudflare/next-on-pages && wrangler deploy"
+},
   "dependencies": {
     "@hookform/resolvers": "^5.7.1",
     "clsx": "^2.1.1",
