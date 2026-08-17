@@ -1,4 +1,5 @@
 // src/app/[locale]/gallery/page.tsx
+export const runtime = 'edge';
 import { getTranslations } from 'next-intl/server';
 import GalleryTabs from '@/features/gallery/components/GalleryTabs';
 

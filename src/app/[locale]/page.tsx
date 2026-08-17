@@ -1,4 +1,5 @@
 // src/app/[locale]/page.tsx
+export const runtime = 'edge';
 import HeroSection from '@/features/landing/components/HeroSection';
 import ServicesGrid from '@/features/landing/components/ServicesGrid';
 import WorkSection from '@/features/landing/components/WorkSection';

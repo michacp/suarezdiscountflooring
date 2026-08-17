@@ -1,4 +1,5 @@
 // src/app/[locale]/services/page.tsx
+export const runtime = 'edge';
 import { getTranslations } from 'next-intl/server';
 import { CATEGORY_ORDER, CATEGORY_ITEMS, CATEGORY_META } from '@/features/services/config';
 import ServiceCard from '@/features/services/components/ServiceCard';
