@@ -16,7 +16,6 @@ const NAV_LINKS = [
 ] as const;
 
  
-
 // Un solo lugar para agregar/quitar redes sociales sin tocar el JSX
 const SOCIAL_LINKS = [
   { href: CONTACT.facebookUrl, icon: FaFacebookF, label: 'Facebook' },
