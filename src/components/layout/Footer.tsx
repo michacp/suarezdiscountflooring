@@ -8,6 +8,7 @@ import { Phone, Mail, MapPin, Clock } from 'lucide-react';
 import { FaFacebookF, FaInstagram } from 'react-icons/fa6';
 import { useQuoteModal } from '@/features/landing/context/QuoteModalContext';
 import { CONTACT } from '@/shared/config/contact'
+
 const NAV_LINKS = [
   { href: '/', key: 'home' },
   { href: '/services', key: 'services' },
