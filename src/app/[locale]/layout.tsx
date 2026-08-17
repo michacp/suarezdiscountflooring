@@ -23,17 +23,22 @@ export default async function LocaleLayout({
   const { locale } = await params;
   if (!routing.locales.includes(locale as any)) notFound();
 
-  const messages = await getMessages();
+  // Pasa el locale explícitamente para compatibilidad con Cloudflare Edge
+  const messages = await getMessages({ locale });
 
   return (
-    <NextIntlClientProvider messages={messages}>
-      <QuoteModalProvider>
-        <Topbar />
-        {children}
-        <Footer />
-        <QuoteModal />
-        <FloatingWhatsApp />
-      </QuoteModalProvider>
-    </NextIntlClientProvider>
+    <html lang={locale} className="h-full antialiased">
+      <body className="min-h-full flex flex-col">
+        <NextIntlClientProvider messages={messages} locale={locale}>
+          <QuoteModalProvider>
+            <Topbar />
+            {children}
+            <Footer />
+            <QuoteModal />
+            <FloatingWhatsApp />
+          </QuoteModalProvider>
+        </NextIntlClientProvider>
+      </body>
+    </html>
   );
 }
