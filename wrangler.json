@@ -5,8 +5,10 @@
   "main": ".vercel/output/static/_worker.js/index.js",
   "assets": {
     "directory": ".vercel/output/static",
-    "binding": "ASSETS"
+    "binding": "ASSETS",
+    "html_handling": "drop-trailing-slash"
   },
-  "workers_dev": true,
-  "preview_urls": true
+  "observability": {
+    "enabled": true
+  }
 }
